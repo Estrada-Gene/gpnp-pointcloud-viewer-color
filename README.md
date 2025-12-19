@@ -1,1 +1,0 @@
-Potree viewer for LiDAR (TLS) derived pointclouds collected at Gunung Palung National Park, West Kalimantan, Indonesia as part of Gene Estrada's dissertation research at the University of Michigan. All pointclouds were collected in January 2023. 
